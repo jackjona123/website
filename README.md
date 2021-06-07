@@ -1,5 +1,6 @@
-# website
-SEO Result. 
-This website was indexed.
+# Website
 
-[Go to my profile:](https://github.com/jackjona123)
+## [Go To My Website](jackjona.ga)
+
+
+### [Go to my Github profile:](https://github.com/jackjona123)
